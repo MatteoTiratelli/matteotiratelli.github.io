@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "";
+@import "{{ site.theme }}";
 ul {
   list-style-type: square;
   margin-left: 0px;
