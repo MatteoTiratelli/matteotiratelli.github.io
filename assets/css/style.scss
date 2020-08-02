@@ -3,11 +3,17 @@
 @import "{{ site.theme }}";
 ul {
   list-style-type: square;
-  margin-left: 0px
+  margin-left: 0px;
 }
 li:first-child {
     margin-top:0;
 }
 li {
-  margin-top: 3px;
+  margin-top: 7px;
+}
+h2 {
+  font-family: Futura, Helvetica, Arial, sans-serif;	
+}
+p {
+  font-family: Noto, Helvetica, Arial, sans-serif;
 }
