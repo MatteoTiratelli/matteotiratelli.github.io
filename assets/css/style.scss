@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+ul {
+  list-style-type: square;
+  margin-left: 0px
+}
+
+li:first-child {
+    margin-top:0;
+}
+
+li {
+  margin-top: 10px;
+}
