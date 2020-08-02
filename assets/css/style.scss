@@ -1,7 +1,7 @@
 ---
 ---
-@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
-@import "minima/initialize";
+
+@import "";
 ul {
   list-style-type: square;
   margin-left: 0px;
