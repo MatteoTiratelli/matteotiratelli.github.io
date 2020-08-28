@@ -22,14 +22,18 @@ title: Matteo Tiratelli
 			background-color: white;
 			position: fixed;
 			display: flex;
-			justify-content: center;
+			text-align: : center;
+			list-style: none;
 			top: 0;
-			padding: 5px 10px;
+			padding: 5px 5px;
 			width: 100%;
+		}
+		.navbar li{
+			display:inline;
 		}
 		.navbar a {
 			float: none;
-			display: block;
+			display: inline-block;
 		 	color: black;
 		 	background-color: white;
 		 	text-align: center;
@@ -48,12 +52,12 @@ title: Matteo Tiratelli
 <body style="max-width: 650px;
     margin: 0 auto;
     padding: 1em;">
-<div class="navbar">
-  <a href="#Profile">Profile</a>
-  <a href="#Bylines">Bylines</a>
-  <a href="#Academia">Academia</a>
-  <a href="#Misc">Misc</a>
-</div>
+<ul class="navbar">
+  <li><a href="#Profile">Profile</a></li>
+  <li><a href="#Bylines">Bylines</a></li>
+  <li><a href="#Academia">Academia</a></li>
+  <li><a href="#Misc">Misc</a></li>
+</ul>
 <a id="Profile"><h1>Matteo Tiratelli</h1></a>
 <ul><li>Teaching sociology at UCL</li>
 	<li>Struggling for socialism through the Labour Party</li>
