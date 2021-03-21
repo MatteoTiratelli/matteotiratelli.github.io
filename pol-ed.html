@@ -19,6 +19,11 @@ permalink: /pol-ed/
 		a:visited {color: #0000FF; text-decoration: none;}
 		a:hover {color: #0000FF; text-decoration: underline;}
 		a:active {color: #0000FF; text-decoration: underline;}
+		.container {position: relative;width: 100%;}
+		.image {display: block; width: 100%;height: auto;}
+		.overlay {position: absolute;top: 0;bottom: 0;left: 0;right: 0;height: 100%;width: 100%;opacity: 0;transition: .5s ease;background-color: grey;}
+		.container:hover .overlay {opacity: 0.8;}
+		.text {color: white;position: absolute;top: 50%;left: 50%;-webkit-transform: translate(-50%, -50%);-ms-transform: translate(-50%, -50%);transform: translate(-50%, -50%);text-align: center;}
 	</style>
 </head>
 <body style="max-width: 650px;
@@ -27,6 +32,9 @@ permalink: /pol-ed/
 <h1>Matteo Tiratelli</h1>
 <br>
 <h3>Political education and training on the British Left</h3>
-<img width="100%" src="/Files/PolEd.jpg" alt="Black Panther Party education programme">
-<br>
-<p><em>details to follow</em></p>
+<div class="container">
+  <img width="100%" src="/Files/PolEd.jpg" alt="Black Panther Party education programme" class="image">
+  <div class="overlay">
+    <div class="text"><em>details to follow</em></div>
+  </div>
+</div>
