@@ -1,10 +1,10 @@
-p {font-family: "Garamond", Times, serif; color: black;}
-ul {list-style-type: square; font-family: "Garamond", Times, serif; color: black;}
+p {font-family: "Garamond", Times, serif; color: white;}
+ul {list-style-type: square; font-family: "Garamond", Times, serif; color: white;}
 ul li:first-child {margin-top:0px; margin-left: 5px;}
 ul li {margin-top: 5px; margin-left: 5px;}
 ul li:last-child {margin-bottom: 35px margin-left: 5px;}
-h1 {font-family: "Garamond", Times, serif; margin-left: 0; color: black; font-weight: bold; text-decoration: none;}
-h3 {font-family: "Garamond", Times, serif; margin-left: 0; color: black; font-weight: bold; text-decoration: none;border-bottom:.15em solid black;}
+h1 {font-family: "Garamond", Times, serif; margin-left: 0; color: white; font-weight: bold; text-decoration: none;}
+h3 {font-family: "Garamond", Times, serif; margin-left: 0; color: white; font-weight: bold; text-decoration: none;border-bottom:.15em solid black;}
 a:link {color: #0000FF; text-decoration: none;}
 a:visited {color: #0000FF; text-decoration: none;}
 a:hover {color: #0000FF; text-decoration: underline;}
