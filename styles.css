@@ -5,10 +5,10 @@ ul li {margin-top: 5px; margin-left: 5px;}
 ul li:last-child {margin-bottom: 35px margin-left: 5px;}
 h1 {font-family: "Garamond", Times, serif; margin-left: 0; color: black; font-weight: bold; text-decoration: none;text-align: center;}
 h3 {font-family: "Garamond", Times, serif; margin-left: 0; color: black; font-weight: bold; text-decoration: none;border-bottom:.15em solid black;}
-a:link {color: #d61347; text-decoration: none;}
-a:visited {color: #d61347; text-decoration: none;}
-a:hover {color: #d61347; text-decoration: underline;}
-a:active {color: #d61347; text-decoration: underline;}
+a:link {color: ; text-decoration: none;}
+a:visited {color: #0645ad; text-decoration: none;}
+a:hover {color: #0645ad; text-decoration: underline;}
+a:active {color: #0645ad; text-decoration: underline;}
 .container {position: relative;width: 100%;}
 .image {display: block; width: 100%;height: auto;}
 .overlay {position: absolute;top: 0;bottom: 0;left: 0;right: 0;height: 100%;width: 100%;opacity: 0;transition: .3s ease;background-color: #505050;}
