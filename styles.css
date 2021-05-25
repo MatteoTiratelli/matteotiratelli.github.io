@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;500;700&display=swap')
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap')
-p {font-family: "Garamond", Times, serif; color: black;}
-ul {list-style-type: square; font-family: "Garamond", Times, serif; color: black;}
+p {font-family: 'Roboto', Helvetica, sans-serif; color: black;}
+ul {list-style-type: square; font-family: 'Roboto', Helvetica, sans-serif; color: black;}
 ul li:first-child {margin-top:0px; margin-left: 5px;}
 ul li {margin-top: 5px; margin-left: 5px;}
 ul li:last-child {margin-bottom: 35px margin-left: 5px;}
 h1 {font-family: 'Roboto Mono', monospace; color: black; font-weight: bold; text-decoration: none;text-align: center;}
-h3 {font-family: "Garamond", Times, serif; color: black; font-weight: bold; text-decoration: none;border-bottom:.15em solid black;}
+h3 {font-family: 'Roboto', Helvetica, sans-serif; color: black; font-weight: bold; text-decoration: none;border-bottom:.15em solid black;}
 a:link {color: ; text-decoration: none;}
 a:visited {color: #0086e6; text-decoration: none;}
 a:hover {color: #0086e6; text-decoration: underline;}
@@ -15,4 +15,4 @@ a:active {color: #0086e6; text-decoration: underline;}
 .image {display: block; width: 100%;height: auto;}
 .overlay {position: absolute;top: 0;bottom: 0;left: 0;right: 0;height: 100%;width: 100%;opacity: 0;transition: .3s ease;background-color: #505050;}
 .container:hover .overlay {opacity: 0.8;}
-.hovertext {color: white;position: absolute; font-family: "Garamond", Times, serif; font-size:20px; top: 50%;left: 50%;-webkit-transform: translate(-50%, -50%);-ms-transform: translate(-50%, -50%);transform: translate(-50%, -50%);text-align: center;}
+.hovertext {color: white;position: absolute; font-family: 'Roboto', Helvetica, sans-serif; font-size:20px; top: 50%;left: 50%;-webkit-transform: translate(-50%, -50%);-ms-transform: translate(-50%, -50%);transform: translate(-50%, -50%);text-align: center;}
