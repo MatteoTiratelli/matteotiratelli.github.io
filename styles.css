@@ -29,8 +29,7 @@ a:active {color: #0086e6; text-decoration: underline;}
 .glitch {
 	position: relative;
 	color: black;
-	font-size: 4em;
-	letter-spacing: .5em;
+	letter-spacing: .2em;
 	
 	&::before{
 		@include glitchCopy;
