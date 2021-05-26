@@ -5,7 +5,7 @@ ul {list-style-type: square; font-family: 'Padauk', sans-serif; color: black;}
 ul li:first-child {margin-top:0px; margin-left: 5px;}
 ul li {margin-top: 5px; margin-left: 5px;}
 ul li:last-child {margin-bottom: 35px; margin-left: 5px;}
-h1 {font-family: 'Roboto Mono', monospace; color: black; font-weight: bold; text-decoration: none; text-align: center; letter-spacing: .2em;}
+h1 {font-family: 'Roboto Mono', monospace; color: black; font-weight: bold; text-decoration: none; text-align: center; letter-spacing: 3px;}
 h3 {font-family: font-family: 'Padauk', sans-serif; color: black; font-weight: bold; text-decoration: none; border-bottom: .15em solid black;}
 a:link {color: ; text-decoration: none;}
 a:visited {color: #0086e6; text-decoration: none;}
