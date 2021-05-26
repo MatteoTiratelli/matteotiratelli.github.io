@@ -4,55 +4,15 @@ p {font-family: 'Padauk', sans-serif; color: black;}
 ul {list-style-type: square; font-family: 'Padauk', sans-serif; color: black;}
 ul li:first-child {margin-top:0px; margin-left: 5px;}
 ul li {margin-top: 5px; margin-left: 5px;}
-ul li:last-child {margin-bottom: 35px margin-left: 5px;}
-h1 {font-family: 'Roboto Mono', monospace; color: black; font-weight: bold; text-decoration: none;text-align: center;}
-h3 {font-family: font-family: 'Padauk', sans-serif; color: black; font-weight: bold; text-decoration: none;border-bottom:.15em solid black;}
+ul li:last-child {margin-bottom: 35px; margin-left: 5px;}
+h1 {font-family: 'Roboto Mono', monospace; color: black; font-weight: bold; text-decoration: none; text-align: center; letter-spacing: .2em;}
+h3 {font-family: font-family: 'Padauk', sans-serif; color: black; font-weight: bold; text-decoration: none; border-bottom: .15em solid black;}
 a:link {color: ; text-decoration: none;}
 a:visited {color: #0086e6; text-decoration: none;}
 a:hover {color: #0086e6; text-decoration: underline;}
 a:active {color: #0086e6; text-decoration: underline;}
 .container {position: relative;width: 100%;}
 .image {display: block; width: 100%;height: auto;}
-.overlay {position: absolute;top: 0;bottom: 0;left: 0;right: 0;height: 100%;width: 100%;opacity: 0;transition: .3s ease;background-color: #505050;}
+.overlay {position: absolute; top: 0; bottom: 0; left: 0; right: 0; height: 100%; width: 100%; opacity: 0; transition: .3s ease; background-color: #505050;}
 .container:hover .overlay {opacity: 0.8;}
-.hovertext {color: white;position: absolute; font-family: 'Padauk', sans-serif; font-size:20px; top: 50%;left: 50%;-webkit-transform: translate(-50%, -50%);-ms-transform: translate(-50%, -50%);transform: translate(-50%, -50%);text-align: center;}
-
-@mixin glitchCopy { 
-		content: attr(data-text);
-		position: absolute;
-		top: 0;
-		left: 0;
-		width: 100%;
-		height: 100%;
-}
-
-.glitch {
-	position: relative;
-	color: black;
-	letter-spacing: .2em;
-	
-	&::before{
-		@include glitchCopy;
-		left: 2px;
-		text-shadow: -2px 0 #ff00c1;
-		clip: rect(44px, 450px, 56px, 0);
-		animation: glitch-anim 50s infinite linear alternate-reverse;
-	}
-	
-	&::after {
-		@include glitchCopy;
-		left: -2px;
-		text-shadow: -2px 0 #00fff9, 2px 2px #ff00c1;
-		animation: glitch-anim 50s infinite linear alternate-reverse;
-	}
-}
-
-@keyframes glitch-anim {
-  $steps: 20;
-  @for $i from 0 through $steps {
-    #{percentage($i*(1/$steps))} {
-      clip: rect(random(100)+px, 9999px, random(100)+px, 0);
-			transform: skew((random(100) / 100) + deg);
-    }
-  }
-}
+.hovertext {color: white; position: absolute; font-family: 'Padauk', sans-serif; font-size:20px; top: 50%; left: 50%; -webkit-transform: translate(-50%, -50%); -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%); text-align: center;}
