@@ -5,7 +5,7 @@ ul li {margin-top: 5px; margin-left: 5px;}
 ul li:last-child {margin-bottom: 35px; margin-left: 5px;}
 h1 {font-family: sans-serif; color: black; font-weight: bold; text-decoration: none; text-align: center; letter-spacing: 3px;}
 h3 {font-family: sans-serif; color: black; font-weight: bold; text-decoration: none; border-bottom: .15em solid black; letter-spacing:1px;}
-a:link {color: #FFC4C4; text-decoration: none; font-family: sans-serif;}
-a:visited {color: #FFC4C4; text-decoration: none; font-family: sans-serif;}
-a:hover {color: #FFC4C4; text-decoration: underline; font-family: sans-serif;}
-a:active {color: #FFC4C4; text-decoration: underline; font-family: sans-serif;}
+a:link {color: #FF0180; text-decoration: none; font-family: sans-serif;}
+a:visited {color: #FF0180; text-decoration: none; font-family: sans-serif;}
+a:hover {color: #FF0180; text-decoration: underline; font-family: sans-serif;}
+a:active {color: #FF0180; text-decoration: underline; font-family: sans-serif;}
