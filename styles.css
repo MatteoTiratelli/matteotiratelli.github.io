@@ -1,12 +1,12 @@
 html {background-color: #22262A}
-p {font-family: 'Padauk', sans-serif; color: #E6E6E6;}
-ul {list-style-type: square; font-family: 'Padauk', sans-serif; color: #E6E6E6;}
+p {font-family: 'Menlo', sans-serif; color: #E6E6E6;}
+ul {list-style-type: square; font-family: 'Menlo', sans-serif; color: #E6E6E6;}
 ul li:first-child {margin-top:0px; margin-left: 5px;}
 ul li {margin-top: 5px; margin-left: 5px;}
 ul li:last-child {margin-bottom: 35px; margin-left: 5px;}
-h1 {font-family: monospace; color: #E6E6E6; font-weight: bold; text-decoration: none; text-align: center; letter-spacing: 3px;}
-h3 {font-family: font-family: sans-serif; color: #E6E6E6; font-weight: bold; text-decoration: none; border-bottom: .15em solid black;}
-a:link {color: #8b0000; text-decoration: none;}
-a:visited {color: #8b0000; text-decoration: none;}
-a:hover {color: #8b0000; text-decoration: underline;}
-a:active {color: #8b0000; text-decoration: underline;}
+h1 {font-family: 'Menlo', sans-serif; color: #E6E6E6; font-weight: bold; text-decoration: none; text-align: center; letter-spacing: 3px;}
+h3 {font-family: font-family: 'Menlo', sans-serif; color: #E6E6E6; font-weight: bold; text-decoration: none; border-bottom: .15em solid black;}
+a:link {color: #FFC4C4; text-decoration: none;}
+a:visited {color: #FFC4C4; text-decoration: none;}
+a:hover {color: #FFC4C4; text-decoration: underline;}
+a:active {color: #FFC4C4; text-decoration: underline;}
