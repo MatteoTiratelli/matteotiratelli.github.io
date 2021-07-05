@@ -1,12 +1,11 @@
-html {background-color: #22262A}
-p {font-family: 'Menlo', sans-serif; color: #E6E6E6;}
-ul {list-style-type: square; font-family: 'Menlo', sans-serif; color: #E6E6E6;}
+p {font-family: sans-serif; color: black;}
+ul {list-style-type: square; font-family: sans-serif; color: black;}
 ul li:first-child {margin-top:0px; margin-left: 5px;}
 ul li {margin-top: 5px; margin-left: 5px;}
 ul li:last-child {margin-bottom: 35px; margin-left: 5px;}
-h1 {font-family: 'Menlo', sans-serif; color: #E6E6E6; font-weight: bold; text-decoration: none; text-align: center; letter-spacing: 3px;}
-h3 {font-family: font-family: 'Menlo', sans-serif; color: #E6E6E6; font-weight: bold; text-decoration: none; border-bottom: .15em solid black;}
-a:link {color: #FFC4C4; text-decoration: none;}
-a:visited {color: #FFC4C4; text-decoration: none;}
-a:hover {color: #FFC4C4; text-decoration: underline;}
-a:active {color: #FFC4C4; text-decoration: underline;}
+h1 {font-family: sans-serif; color: black; font-weight: bold; text-decoration: none; text-align: center; letter-spacing: 3px;}
+h3 {font-family: sans-serif; color: black; font-weight: bold; text-decoration: none; border-bottom: .15em solid black; letter-spacing:1px;}
+a:link {color: #FFC4C4; text-decoration: none; font-family: sans-serif;}
+a:visited {color: #FFC4C4; text-decoration: none; font-family: sans-serif;}
+a:hover {color: #FFC4C4; text-decoration: underline; font-family: sans-serif;}
+a:active {color: #FFC4C4; text-decoration: underline; font-family: sans-serif;}
