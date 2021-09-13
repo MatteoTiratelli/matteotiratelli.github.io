@@ -6,7 +6,7 @@ ul li:last-child {margin-bottom: 35px;margin-left: 5px;}
 ul ul {list-style-type: '- ';}
 ul ul li:first-child {margin-top: 5px;margin-left: 5px;}
 ul ul li:last-child {margin-bottom: 0px;margin-left: 5px;}
-h1 {font-family: sans-serif; color: black; font-weight: lighter; text-decoration: none; text-align: center; letter-spacing: 1px;}
+h1 {font-family: sans-serif; color: black; font-weight: bold; text-decoration: none; text-align: center; letter-spacing: 2px;}
 h3 {font-family: sans-serif; color: black; font-weight: bold; text-decoration: none; border-bottom: .15em solid black; letter-spacing:1px;}
 a:link {color: blue; text-decoration: none; font-family: sans-serif;}
 a:visited {color: blue; text-decoration: none; font-family: sans-serif;}
