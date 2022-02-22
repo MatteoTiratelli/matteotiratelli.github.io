@@ -1,14 +1,14 @@
-p {font-family: sans-serif; color: black;}
-ul {list-style-type: square;font-family: sans-serif;color: black;}
+p {font-family: monospace; color: black;}
+ul {list-style-type: square;font-family: monospace;color: black;}
 ul li:first-child {margin-top: 0px;margin-left: 5px;}
 ul li {margin-top: 5px;margin-left: 5px;}
 ul li:last-child {margin-bottom: 35px;margin-left: 5px;}
 ul ul {list-style-type: '- ';}
 ul ul li:first-child {margin-top: 5px;margin-left: 5px;}
 ul ul li:last-child {margin-bottom: 0px;margin-left: 5px;}
-h1 {font-family: sans-serif; color: black; font-weight: bold; text-decoration: none; text-align: center; letter-spacing: 2px;}
-h3 {font-family: sans-serif; color: black; font-weight: bold; text-decoration: none; border-bottom: .15em solid black; letter-spacing:1px;}
-a:link {color: blue; text-decoration: none; font-family: sans-serif;}
-a:visited {color: blue; text-decoration: none; font-family: sans-serif;}
-a:hover {color: blue; text-decoration: underline; font-family: sans-serif;}
-a:active {color: blue; text-decoration: underline; font-family: sans-serif;}
+h1 {font-family: monospace; color: black; font-weight: bold; text-decoration: none; text-align: center; letter-spacing: 2px;}
+h3 {font-variant: small-caps; font-family: monospace; color: black; font-weight: bold; text-decoration: none; border-bottom: .15em solid black; letter-spacing:1px;}
+a:link {color: blue; text-decoration: none; font-family: monospace;}
+a:visited {color: blue; text-decoration: none; font-family: monospace;}
+a:hover {color: blue; text-decoration: underline; font-family: monospace;}
+a:active {color: blue; text-decoration: underline; font-family: monospace;}
