@@ -8,7 +8,7 @@ ul li:last-child {margin-bottom: 35px;margin-left: 5px;}
 ul ul {list-style-type: '- ';}
 ul ul li:first-child {margin-top: 5px;margin-left: 5px;}
 ul ul li:last-child {margin-bottom: 0px;margin-left: 5px;}
-h1 {font-family: sans-serif; font-weight: 400; color: black; font-weight: bold; text-decoration: none; text-align: center; letter-spacing: 2px;font-smooth:  auto; -webkit-font-smoothing: antialiased;
+h1 {font-family: monospace; font-weight: 400; color: black; font-weight: bold; text-decoration: none; text-align: center; letter-spacing: 2px;font-smooth:  auto; -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;}
 h3 {font-variant: small-caps; font-family: sans-serif; font-weight: 400; color: black; font-weight: bold; text-decoration: none; border-bottom: .15em solid black; letter-spacing:1px;font-smooth:  auto; -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;}
