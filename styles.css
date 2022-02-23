@@ -16,7 +16,7 @@ a:link {color: blue; text-decoration: none; font-family: sans-serif; font-weight
   -moz-osx-font-smoothing: grayscale;}
 a:visited {color: blue; text-decoration: none; font-family: sans-serif; font-weight: 400;font-smooth:  auto; -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;}
-a:hover {color: blue; text-decoration: underline; font-family: sans-serif; font-weight: 400;font-smooth:  auto; -webkit-font-smoothing: antialiased;
+a:hover {color: blue; text-decoration: underline; text-decoration-thickness: 3px; font-family: sans-serif; font-weight: 400;font-smooth:  auto; -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;}
-a:active {color: blue; text-decoration: underline; font-family: sans-serif; font-weight: 400;font-smooth:  auto; -webkit-font-smoothing: antialiased;
+a:active {color: blue; text-decoration: underline; text-decoration-thickness: 3px; font-family: sans-serif; font-weight: 400;font-smooth:  auto; -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;}
