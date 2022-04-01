@@ -9,11 +9,11 @@ h1 {font-family: "Courier New", courier, monospace; color: black; font-weight: n
   -moz-osx-font-smoothing: grayscale;}
 h3 {font-variant: small-caps; font-family: sans-serif; color: black; font-weight: normal; text-decoration: none; letter-spacing: 2px; border-bottom: .15em solid black; font-smooth:  auto; -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;}
-a:link {color: blue; text-decoration: none; font-family: sans-serif; font-weight: normal; font-smooth:  auto; -webkit-font-smoothing: antialiased;
+a:link {color: blue; text-decoration: none; border-bottom: 2px solid blue; font-family: sans-serif; font-weight: normal; font-smooth:  auto; -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;}
-a:visited {color: blue; text-decoration: none; font-family: sans-serif; font-weight: normal;font-smooth:  auto; -webkit-font-smoothing: antialiased;
+a:visited {color: blue; text-decoration: none; border-bottom: 2px solid blue; font-family: sans-serif; font-weight: normal;font-smooth:  auto; -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;}
-a:hover {color: blue; text-decoration: none; border-bottom: 2px solid blue; font-family: sans-serif; font-weight: normal;font-smooth:  auto; -webkit-font-smoothing: antialiased;
+a:hover {color: blue; text-decoration: none; border-bottom: 1px solid blue; font-family: sans-serif; font-weight: normal;font-smooth:  auto; -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;}
-a:active {color: blue; text-decoration: none; border-bottom: 2px solid blue; font-family: sans-serif; font-weight: normal;font-smooth:  auto; -webkit-font-smoothing: antialiased;
+a:active {color: blue; text-decoration: none; border-bottom: 1px solid blue; font-family: sans-serif; font-weight: normal;font-smooth:  auto; -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;}
