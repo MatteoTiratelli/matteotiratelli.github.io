@@ -1,4 +1,4 @@
-## Tiratelli, Matteo (2024) "Evidence from the transformation of socialist parties in western Europe, 1945-2021", Social Science History.
+#### R code to replicate Tiratelli (2024) "Deradicalization and the experience of governing: Evidence from the transformation of socialist parties in western Europe, 1945-2021", Social Science History.
 
 devtools::install_github("https://github.com/MatteoTiratelli/SparsePanelMatch")
 library(SparsePanelMatch)
