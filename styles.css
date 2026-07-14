@@ -1,10 +1,10 @@
-h1 {font-family: monospace; color: black; font-weight: lighter; text-decoration: none; text-align: center; letter-spacing: 2px; font-smooth:  auto; -webkit-font-smoothing: antialiased;
+h1 {font-family: monospace; color: black; font-weight: lighter; text-decoration: none; text-align: center; letter-spacing: 2p.2x; font-smooth:  auto; -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;}
-h3 {font-family: monospace; font-variant: small-caps; color: black; font-weight: lighter; text-decoration: none; letter-spacing: 2px; border-bottom: .15em solid black; font-smooth:  auto; -webkit-font-smoothing: antialiased;
+h3 {font-family: monospace; text-transform: uppercase; color: black; font-weight: lighter; text-decoration: none; letter-spacing: 2.2px; border-bottom: .15em solid black; font-smooth:  auto; -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;}
 p {font-family: sans-serif; font-weight: normal; color: black; font-smooth:  auto; -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; line-height: 1.3;}
-ul {list-style-type: square; font-family: sans-serif; font-weight: normal; letter-spacing: 0.5px; color: black; font-smooth:  auto; -webkit-font-smoothing: antialiased;
+ul {list-style-type: square; font-family: sans-serif; font-weight: normal; letter-spacing: 0.6px; color: black; font-smooth:  auto; -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; line-height: 1.3;}
 ul li:first-child {margin-top: 0px; margin-left: 5px; line-height: 1.3; }
 ul li {margin-top: 7px; margin-left: 5px; line-height: 1.3; }
