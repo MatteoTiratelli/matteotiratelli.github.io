@@ -1,14 +1,14 @@
 h1 {font-family: monospace; color: black; font-weight: lighter; text-decoration: none; text-align: center; letter-spacing: 2.2px; font-smooth:  auto; -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;}
-h3 {font-family: monospace; color: black; font-weight: lighter; text-decoration: none; letter-spacing: 2.2px; border-bottom: .15em solid black; font-smooth:  auto; -webkit-font-smoothing: antialiased;
+h3 {font-family: monospace; color: black; font-weight: bolder; text-decoration: none; letter-spacing: 2.2px; border-bottom: .15em solid black; font-smooth:  auto; -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;}
 p {font-family: sans-serif; font-weight: normal; color: black; font-smooth:  auto; -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale; line-height: 1.3;}
+  -moz-osx-font-smoothing: grayscale; line-height: 1.5;}
 ul {list-style-type: square; font-family: sans-serif; font-weight: normal; letter-spacing: 0.6px; color: black; font-smooth:  auto; -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale; line-height: 1.3;}
-ul li:first-child {margin-top: 0px; margin-left: 5px; line-height: 1.3; }
-ul li {margin-top: 7px; margin-left: 5px; line-height: 1.3; }
-ul li:last-child {margin-bottom: 35px; margin-left: 5px; line-height: 1.3; }
+  -moz-osx-font-smoothing: grayscale; line-height: 1.5;}
+ul li:first-child {margin-top: 0px; margin-left: 5px; line-height: 1.5; }
+ul li {margin-top: 7px; margin-left: 5px; line-height: 1.5; }
+ul li:last-child {margin-bottom: 35px; margin-left: 5px; line-height: 1.5; }
 a:link {font-family: sans-serif; color: blue; text-decoration: none; border-bottom: 2px solid blue; font-weight: normal; letter-spacing: 0.5px; font-smooth:  auto; -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;}
 a:visited {font-family: sans-serif; color: blue; text-decoration: none; border-bottom: 2px solid blue; font-weight: normal; letter-spacing: 0.5px; font-smooth:  auto; -webkit-font-smoothing: antialiased;
