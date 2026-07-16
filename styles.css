@@ -1,6 +1,6 @@
-h1 {font-family: monospace; color: black; font-weight: bolder; text-decoration: none; text-align: center; letter-spacing: 2.2px; font-smooth:  auto; -webkit-font-smoothing: antialiased;
+h1 {font-family: monospace; color: black; font-weight: 550; text-decoration: none; text-align: center; letter-spacing: 2.2px; font-smooth:  auto; -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;}
-h3 {font-family: monospace; color: black; font-weight: bolder; text-decoration: none; letter-spacing: 2.2px; border-bottom: .15em solid black; font-smooth:  auto; -webkit-font-smoothing: antialiased;
+h3 {font-family: monospace; color: black; font-weight: 550; text-decoration: none; letter-spacing: 2.2px; border-bottom: .15em solid black; font-smooth:  auto; -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;}
 p {font-family: sans-serif; font-weight: normal; color: black; font-smooth:  auto; -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; line-height: 1.5;}
